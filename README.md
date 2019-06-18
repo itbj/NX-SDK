@@ -5,10 +5,10 @@
 
 # Table of Contents 目录
 
-  - [Cisco NX-SDK](#cisco-nx-sdk 思科 Nexus OS 软件开发套件)
-  - [Release](#release 发布版本介绍)
-  - [Documentation and Usage](#documentation-and-usage)
-  - [Description](#description 描述)
+  - [Cisco NX-SDK 思科NexusOS软件开发套件](#cisco-nx-sdk)
+  - [Release 发布版本介绍](#release)
+  - [Documentation and Usage 文档和用法](#documentation-and-usage)
+  - [Description 描述](#description)
   - [Custom Application Development using NX-SDK Requirements](#custom-application-development-using-nx-sdk-requirements)
   - [Custom Application Development Flow using NX-SDK](#custom-application-development-flow-using-nx-sdk)
     * [1. Install NX-SDK](#1-install-nx-sdk)
